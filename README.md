@@ -21,12 +21,13 @@ I am an &#8477;&&#120123;-oriented computer scientist, mathematician, and softwa
 
 ## &#120142;hat I’ve Been Up To
 
-|                                                              |
-| ------------------------------------------------------------ |
-| A lot of COVID-19 stuff.<br><br>I laser cut a few hundred face shields for local healthcare workers.<br><br>I did [a little **math** about sample pooling](https://github.com/rljacobson/SamplePooling) one afternoon. After seeing it, my marine biologist friend and collaborator convinced me I needed to write an [**online demo** so nonscientists can see the benefits for themselves](https://github.com/rljacobson/BayesTesting), then also **an article** on a mathematical mistake being made by many public health officials which has serious consequences: “[Bayes’ Theorem and the Deathly Hallows](https://www.robertjacobson.dev/).” We coauthored a less technical version for nonscientists titled, “[COVID-19: Population Testing vs. Thoughts and Prayers?](https://medium.com/@arhyne/covid-19-population-testing-vs-thoughts-and-prayers-454e64946dde).” |
-| A [**Prolog** implementation as part of a tutorial series about writing automated theorem provers](https://github.com/rljacobson/WAM) and the language⟷mathematics correspondence. Work in progress. |
-| [**Elsix:** An implementation of L<sup>6</sup>, Bell Laboratory's Low-Level Linked List Language](https://github.com/rljacobson/Elsix), originally designed and implemented by Kenneth C. Knowlton in 1965 for the IBM  7094 computer at Bell Labs. This language has fallen into obscurity and to my knowledge has no extant implementation. But you have to check out this original state-of-the-art (for the time) demo: [The L<sup>6</sup> Programming Language, Rendered in Stunning Early Computer Graphics](https://www.youtube.com/watch?v=4a-lVJ9wT0s) |
-| **Reflex:** A rewrite of RE-flex in rust. [RE-flex](https://www.genivia.com/reflex.html) is a source compatible, modern C++ replacement for the venerable flex lexer generator written by Robert van Engelen. The original [flex](https://github.com/westes/flex/) program by Vern Paxson is itself a rewrite of [lex](https://en.wikipedia.org/wiki/Lex_(software)), a unix program written by computing pioneer [Mike Lesk](https://en.wikipedia.org/wiki/Mike_Lesk) and an obscure intern named [Eric Schmidt.](https://en.wikipedia.org/wiki/Eric_Schmidt) |
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="img/Scientist.jpg" width="100%">                   | A lot of COVID-19 stuff.<br/><br/>I laser cut a few hundred face shields for local healthcare workers.<br/><br/>I did [a little **math** about sample pooling](https://github.com/rljacobson/SamplePooling) one afternoon. After seeing it, my marine biologist friend and collaborator convinced me I needed to write an [**online demo** so nonscientists can see the benefits for themselves](https://github.com/rljacobson/BayesTesting), then also **an article** on a mathematical mistake being made by many public health officials which has serious consequences: “[Bayes’ Theorem and the Deathly Hallows](https://www.robertjacobson.dev/).” We coauthored a less technical version for nonscientists titled, “[COVID-19: Population Testing vs. Thoughts and Prayers?](https://medium.com/@arhyne/covid-19-population-testing-vs-thoughts-and-prayers-454e64946dde).” |
+| <img src="img/NatureIntelligenceSystem.jpg" width="100%">    | Fighting the international trade of illegal wildlife with the [Nature Intelligence System](http://natureintelligence.trade/) I helped create. |
+| <img src="img/Searchgraph.svg" width="100%">                 | A [**Prolog** implementation as part of a tutorial series about writing automated theorem provers](https://github.com/rljacobson/WAM) and the language⟷mathematics correspondence. Work in progress. |
+| ![L6](/Users/rljacobson/Development/rljacobson/img/L6.jpg)   | [**Elsix:** An implementation of L<sup>6</sup>, Bell Laboratory's Low-Level Linked List Language](https://github.com/rljacobson/Elsix), originally designed and implemented by Kenneth C. Knowlton in 1965 for the IBM  7094 computer at Bell Labs. This language has fallen into obscurity and to my knowledge has no extant implementation. But you have to check out this original state-of-the-art (for the time) demo: [The L<sup>6</sup> Programming Language, Rendered in Stunning Early Computer Graphics](https://www.youtube.com/watch?v=4a-lVJ9wT0s) |
+| ![L6Structure](/Users/rljacobson/Development/rljacobson/img/L6Structure.jpg) | **Reflex:** A rewrite of RE-flex in rust. [RE-flex](https://www.genivia.com/reflex.html) is a source compatible, modern C++ replacement for the venerable flex lexer generator written by Robert van Engelen. The original [flex](https://github.com/westes/flex/) program by Vern Paxson is itself a rewrite of [lex](https://en.wikipedia.org/wiki/Lex_(software)), a unix program written by computing pioneer [Mike Lesk](https://en.wikipedia.org/wiki/Mike_Lesk) and an obscure intern named [Eric Schmidt.](https://en.wikipedia.org/wiki/Eric_Schmidt) |
 
 Things that I work on but not in the last few months: 
 
@@ -53,6 +54,10 @@ By an  accident of history, this particular unusual skill set, as eclectic as it
 I am also interesting in mentorship, both as a mentor and a mentee. It is very important to me that I work in an environment where saying, "I don't know," is the norm rather than an admission of guilt. A mutually supportive and constructive environment produces better science, superior products, and happier employees. 
 
 
+
+## Recreational
+
+[Project Smurd:](https://github.com/rljacobson/smurd) My adventures learning electronics and reverse engineering [the TARDIS keyboard](https://www.youtube.com/playlist?list=PLgpU578_-FB6_MY6sQiTWWz986MnvKDim),
 
 <!--
 **rljacobson/rljacobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
