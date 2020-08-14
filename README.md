@@ -15,7 +15,7 @@ I am an &#8477;&&#120123;-oriented computer scientist, mathematician, and softwa
 |           Resume | [Jacobson_cv.pdf](https://github.com/rljacobson/rljacobson/raw/master/Jacobson_cv.pdf) |
 | LinkedIn Profile | [https://www.linkedin.com/in/robertljacobson/](https://www.linkedin.com/in/robertljacobson/) |
 |           GitHub | [https://github.com/rljacobson](https://github.com/rljacobson) (Right here!) |
-|             Blog | [www.robertjacobson.dev](www.robertjacobson.dev)             |
+|             Blog | [www.robertjacobson.dev](https://www.robertjacobson.dev)     |
 |            Email | robertjacobson@acm.org                                       |
 |            Phone | (401) 9<span>96-</span><span><span>29</span>40</span>        |
 
@@ -55,7 +55,7 @@ I am also interesting in mentorship, both as a mentor and a mentee. It is very i
 
 ## Fun Stats
 
-This is what Sourcerer.io says about my development directory. It is not entirely accurate. I am certain I have written more C++ than reported, but I have never used DirectXTK. 
+This is what Sourcerer.io says about my development directory. It is not entirely accurate. I am certain I have more C++ than reported, but I have never used DirectXTK. 
 
 ![SourcererOverview](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererOverview.png)
 
