@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/ProfessionalBanner.jpg">
 
-# &#8477;obert &#120129;acobson, &#8473;&#295;.&#120123;.
+# &#8477;obert &#120129;acobson, &#8473;h.&#120123;.
 
 I am an &#8477;&&#120123;-oriented computer scientist, mathematician, and software engineer with broad experience. I have particular interests in compilers, programming languages, and virtual machines; computer vision and machine learning; and algorithm design and mathematical programming.
 
@@ -53,11 +53,34 @@ By an  accident of history, this particular unusual skill set, as eclectic as it
 
 I am also interesting in mentorship, both as a mentor and a mentee. It is very important to me that I work in an environment where saying, "I don't know," is the norm rather than an admission of guilt. A mutually supportive and constructive environment produces better science, superior products, and happier employees. 
 
+## Fun Stats
+
+This is what Sourcerer.io says about my development directory. It is not entirely accurate. I am certain I have written more C++ than reported, but I have never used DirectXTK. 
+
+![SourcererOverview](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererOverview.png)
+
+![SourcererLanguages](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererLanguages.png)
+
+![SourcererFunFacts](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererFunFacts.png)
+
 
 
 ## Recreational
 
-[Project Smurd:](https://github.com/rljacobson/smurd) My adventures learning electronics and reverse engineering [the TARDIS keyboard](https://www.youtube.com/playlist?list=PLgpU578_-FB6_MY6sQiTWWz986MnvKDim),
+[Project Smurd:](https://github.com/rljacobson/smurd) My adventures learning electronics and reverse engineering [the TARDIS keyboard](https://www.youtube.com/playlist?list=PLgpU578_-FB6_MY6sQiTWWz986MnvKDim).
+
+
+
+**ONE of the following is a lie:**
+
+1. I once got a thank-you letter from the United Nations.
+2. I redesigned the TRS-80 using modern SMD components.
+3. I almost got into a first fight with [Stephen Wolfram](https://www.stephenwolfram.com/), but [Steven Pinker](https://stevenpinker.com/) intervened. We all remain good friends to this day.
+4. I went out on a dinner date with [Lawrence Lessig](https://en.wikipedia.org/wiki/Lawrence_Lessig)'s graduate research assistant.
+5. I went out on a dinner date with [Lawrence Lessig](https://www.lessig.org/).
+6. I've worked with a lifelong friend of [Prince William](https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cambridge), the second in line to the British throne (but I won’t tell you who).
+
+
 
 <!--
 **rljacobson/rljacobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
