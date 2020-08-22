@@ -57,7 +57,7 @@ I am also interesting in mentorship, both as a mentor and a mentee. It is very i
 
 This is what Sourcerer.io says about my development directory. It is not entirely accurate. I am certain I have more C++ than reported, but I have never used DirectXTK. 
 
-![SourcererOverview](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererOverview.png)
+[![SourcererOverview](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererOverview.png)](https://sourcerer.io/rljacobson)
 
 ![SourcererLanguages](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererLanguages.png)
 
