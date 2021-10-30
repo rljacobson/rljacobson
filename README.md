@@ -75,7 +75,7 @@ This is what Sourcerer.io says about my development directory as of mid August 2
 
 1. I once got a thank-you letter from the United Nations.
 2. I redesigned the TRS-80 using modern SMD components.
-3. I almost got into a first fight with [Stephen Wolfram](https://www.stephenwolfram.com/), but [Steven Pinker](https://stevenpinker.com/) intervened. We all remain good friends to this day.
+3. I almost got into a fight with [Stephen Wolfram](https://www.stephenwolfram.com/), but [Steven Pinker](https://stevenpinker.com/) intervened. We all remain good friends to this day.
 4. I went out on a dinner date with [Lawrence Lessig](https://en.wikipedia.org/wiki/Lawrence_Lessig)'s graduate research assistant.
 5. I went out on a dinner date with [Lawrence Lessig](https://www.lessig.org/).
 6. I've worked with a lifelong friend of [Prince William](https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cambridge), the second in line to the British throne (but I won’t tell you who).
