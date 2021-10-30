@@ -29,13 +29,13 @@ I am an &#8477;&&#120123;-oriented computer scientist, mathematician, and softwa
 | ![L6](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/L6.jpg) | [**Elsix:** An implementation of L<sup>6</sup>, Bell Laboratory's Low-Level Linked List Language](https://github.com/rljacobson/Elsix), originally designed and implemented by Kenneth C. Knowlton in 1965 for the IBM  7094 computer at Bell Labs. This language has fallen into obscurity and to my knowledge has no extant implementation. But you have to check out this original state-of-the-art (for the time) demo: [The L<sup>6</sup> Programming Language, Rendered in Stunning Early Computer Graphics](https://www.youtube.com/watch?v=4a-lVJ9wT0s) |
 | ![L6Structure](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/L6Structure.jpg) | **Reflex:** A rewrite of RE-flex in rust. [RE-flex](https://www.genivia.com/reflex.html) is a source compatible, modern C++ replacement for the venerable flex lexer generator written by Robert van Engelen. The original [flex](https://github.com/westes/flex/) program by Vern Paxson is itself a rewrite of [lex](https://en.wikipedia.org/wiki/Lex_(software)), a unix program written by computing pioneer [Mike Lesk](https://en.wikipedia.org/wiki/Mike_Lesk) and an obscure intern named [Eric Schmidt.](https://en.wikipedia.org/wiki/Eric_Schmidt) |
 
-Things that I work on but not in the last few months: 
+*Ask me about what I’ve been learning recently!* 
+
+This year I started keeping [a log of "interesting things" I read, learn, or discover](https://github.com/rljacobson/IterestingThings). It's a peek into the storm inside my brain.
+
+Also, things that I work on but not in the last few months: 
 
 **[FoxySheep:](https://github.com/rocky/FoxySheep2)** A parser for Wolfram Language (Mathematica) &#10050; **[Levenshtein:](https://github.com/rljacobson/Levenshtein)** A blazingly fast Levenstein-Damarau edit distance function for MySQL &#10050; **[Wolfram Language Specification:](https://wltools.github.io/LanguageSpec/)** An independent attempt at describing the entire language 
-
-
-
-*Ask me about what I’ve been learning recently!*
 
 
 
@@ -55,7 +55,7 @@ I am also interesting in mentorship, both as a mentor and a mentee. It is very i
 
 ## Fun Stats
 
-This is what Sourcerer.io says about my development directory. It is not entirely accurate. I am certain I have more C++ than reported, but I have never used DirectXTK. 
+This is what Sourcerer.io says about my development directory as of mid August 2020. It is not entirely accurate. I am certain I have more C++ code than reported, but I have never used DirectXTK. 
 
 [![SourcererOverview](https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/SourcererOverview.png)](https://sourcerer.io/rljacobson)
 
