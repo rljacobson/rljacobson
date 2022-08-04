@@ -14,10 +14,10 @@ interests in compilers, programming languages, and virtual machines; computer vi
 |                  |                                                              |
 | ---------------: | ------------------------------------------------------------ |
 |           Resume | [Jacobson_cv.pdf](https://github.com/rljacobson/rljacobson/raw/master/Jacobson_cv.pdf) |
-| LinkedIn Profile | [https://www.linkedin.com/in/robertljacobson/](https://www.linkedin.com/in/robertljacobson/) |
-|           GitHub | [https://github.com/rljacobson](https://github.com/rljacobson) (Right here!) |
+| LinkedIn Profile | [www.linkedin.com/in/robertljacobson/](https://www.linkedin.com/in/robertljacobson/) |
+|           GitHub | [github.com/rljacobson](https://github.com/rljacobson) (Right here!) |
 |             Blog | [www.robertjacobson.dev](https://www.robertjacobson.dev)     |
-|            Email | robertjacobson@acm.org                                       |
+|            Email | rljacobson@gmail.com                                         |
 |            Phone | (401) 9<span>96-</span><span><span>29</span>40</span>        |
 
 ## What I’ve Been Up To
