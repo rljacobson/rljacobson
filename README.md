@@ -5,9 +5,6 @@
 I am an R&D-oriented computer scientist, mathematician, and software engineer with broad experience. I have particular
 interests in compilers, programming languages, and virtual machines; computer vision and machine learning; and algorithm design and mathematical programming.
 
-### **&#10077;Looking to hire a computer scientist mathematician? I am looking to be hired! *Let’s talk.*&#10078;**
-
-
 
 ## The Facts
 
