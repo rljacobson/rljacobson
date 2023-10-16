@@ -5,6 +5,7 @@
 I am an R&D-oriented computer scientist, mathematician, and software engineer with broad experience. I have particular
 interests in compilers, programming languages, and virtual machines; computer vision and machine learning; and algorithm design and mathematical programming.
 
+Looking to 𝒉𝒊𝒓𝒆 a mathematician computer scientist? I'm looking to be hired! <a href="mailto:rljacobson@gmail.com"><em>Get in touch.</em></a>
 
 ## The Facts
 
@@ -21,6 +22,7 @@ interests in compilers, programming languages, and virtual machines; computer vi
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2021/03/10/Arch-diagram.jpg" width="100%"> | Keeping enterprise networks secure with AI at <a href="https://www.vectra.ai/">Vectra.</a> |
 | <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/loris.jpg" width="100%"> | [Loris](https://www.github.com/rljacobson/loris): A term rewriting system and computer algebra system based on sophisticated pattern matching algorithms. |
 | <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/Ransomware.jpg" width="100%"> | Fighting to eradicate ransomware with artificial intelligence at <a href="https://www.halcyon.ai/">Halcyon Tech, Inc.</a> |
 | <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/Scientist.jpg" width="100%"> | A lot of COVID-19 stuff.<br/><br/>I laser cut a few hundred face shields for local healthcare workers.<br/><br/>I did [a little **math** about sample pooling](https://github.com/rljacobson/SamplePooling) one afternoon. After seeing it, my marine biologist friend and collaborator convinced me I needed to write an [**online demo** so nonscientists can see the benefits for themselves](https://github.com/rljacobson/BayesTesting), then also **an article** on a mathematical mistake being made by many public health officials which has serious consequences: “[Bayes’ Theorem and the Deathly Hallows](https://www.robertjacobson.dev/).” We coauthored a less technical version for nonscientists titled, “[COVID-19: Population Testing vs. Thoughts and Prayers?](https://medium.com/@arhyne/covid-19-population-testing-vs-thoughts-and-prayers-454e64946dde).” Nobel laureate Paul Romer had this to say about it: ![Romer](img/Romer.png) |
