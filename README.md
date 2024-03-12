@@ -22,7 +22,7 @@ Looking to 𝒉𝒊𝒓𝒆 a mathematician computer scientist? I'm looking to b
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/ExpressionMatching.png" width="100%">  | State of the art expression pattern matching using technology from Maude in the Rust library Mod. |
+| <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/ExpressionMatching.png" width="100%">  | State of the art expression pattern matching using technology from Maude in the [Rust library Mod](https://github.com/rljacobson/Mod). |
 | <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2021/03/10/Arch-diagram.jpg" width="100%"> | Keeping enterprise networks secure with AI at <a href="https://www.vectra.ai/">Vectra.</a> |
 | <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/loris.jpg" width="100%"> | [Loris](https://www.github.com/rljacobson/loris): A term rewriting system and computer algebra system based on sophisticated pattern matching algorithms. |
 | <img src="https://raw.githubusercontent.com/rljacobson/rljacobson/master/img/Ransomware.jpg" width="100%"> | Fighting to eradicate ransomware with artificial intelligence at <a href="https://www.halcyon.ai/">Halcyon Tech, Inc.</a> |
